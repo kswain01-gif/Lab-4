@@ -12,7 +12,7 @@ def divisible_by_m(n,m):
   >>> divisible_by_m(9,3)
   True
   """
-  if n is a multiple of m:
-  return True
+  if n%m==0: 
+    return True
   else:
-  return False
+    return False
