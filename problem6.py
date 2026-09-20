@@ -41,7 +41,7 @@ def with_if_function():
 def c():
   return True
 
-def
+def t():
   print (1)
 
 def f():
