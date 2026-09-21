@@ -10,11 +10,11 @@ def wears_jacket(temp, raining):
   wears_jacket(64, not raining)
   false
   """
-  if number<60
+  if number<60:
     return True
   else: 
     return False
-  if value==raining
+  if value==raining:
     return True
   else:
     return False
